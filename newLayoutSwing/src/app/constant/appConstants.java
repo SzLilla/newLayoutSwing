@@ -3,7 +3,7 @@ package app.constant;
 import java.awt.Dimension;
 
 
-public final class appConstants {
+public final class AppConstants {
     public static final String mainWindowTitle = "Layout Browser";
     public static final Dimension mainWindowSize = new Dimension(800, 600);
 
